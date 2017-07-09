@@ -1,7 +1,9 @@
-//:## Merge Sort Swift 4
+//: [Previous](@previous)
 
-import UIKit
 
+//:#Merge Sort Swift 4 
+
+import Foundation
 
 //Split Arrays
 
@@ -37,7 +39,7 @@ func merge(left:[Int], right:[Int])-> [Int]{
 }
 
 
-//Running Example
+////Running Example
 var numbers:[Int] = []
 
 for _ in 0..<50{
@@ -52,5 +54,5 @@ print(mergeSort(array: numbers),"\n")
 print("# In sorting n objects, merge sort has an average and worst-case performance of O(n log n).","\n")
 
 
-
+//: [Next](@next)
 
