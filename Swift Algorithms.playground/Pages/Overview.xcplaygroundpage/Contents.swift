@@ -3,7 +3,7 @@
 
 * [BinarySearch](@next)
 * [MergeSort](@MergeSort)
-
+* [BinarySearchTree](@BinarySearchTree)
 
 */
 

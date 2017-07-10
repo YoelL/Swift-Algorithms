@@ -1,7 +1,7 @@
 //: [Previous](@previous)
 
 
-//:#Merge Sort Swift 4 
+//:# Merge Sort Swift 4 
 
 import Foundation
 
