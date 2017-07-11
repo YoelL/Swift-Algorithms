@@ -4,6 +4,7 @@
 * [BinarySearch](@next)
 * [MergeSort](@MergeSort)
 * [BinarySearchTree](@BinarySearchTree)
+* [Two Sum Problem](@Two-SumProblem)
 
 */
 
