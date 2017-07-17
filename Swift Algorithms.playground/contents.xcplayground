@@ -7,5 +7,6 @@
         <page name='BinarySearchTree'/>
         <page name='Two-Sum Problem'/>
         <page name='HeapSort'/>
+        <page name='QuickSort'/>
     </pages>
 </playground>

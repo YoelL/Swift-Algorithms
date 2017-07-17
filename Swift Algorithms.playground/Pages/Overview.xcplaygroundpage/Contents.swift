@@ -6,6 +6,7 @@
 * [BinarySearchTree](@BinarySearchTree)
 * [Two Sum Problem](@Two-SumProblem)
 * [Heap Sort](@HeapSort)
+* [Quick Sort](@QuickSort)
 
 */
 
